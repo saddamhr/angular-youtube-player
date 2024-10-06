@@ -1,0 +1,15 @@
+.youtube-player-placeholder {
+  width: 100% !important;
+  height: 580px !important;
+}
+
+iframe {
+  width: 100% !important;
+  height: 580px !important;
+}
+
+.video-list {
+  height: 600px;
+  overflow-y: auto;
+}
+
